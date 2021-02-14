@@ -12,7 +12,7 @@
 
 ![Exit_Zero's github stats](https://github-readme-stats.vercel.app/api?username=exit-zer0)
 
-![Exit_Zero's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=exit-zer0)
+![Exit_Zero's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=exitzer0)
 
 ![Exit_Zero's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=exit-zer0)
 
